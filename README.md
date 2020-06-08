@@ -1,7 +1,6 @@
-## Digital-and-Algorithmic-Marketing
-Group project: Recommending restaurants for groups
+## Group project: Recommending restaurants for groups
 
-Members:
+### Members
 
 Li Liu
 
